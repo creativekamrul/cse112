@@ -2,7 +2,7 @@
 *.exe
 *.out
 *.app
-
+*.cpp.temp
 # Object files
 *.o
 *.obj
